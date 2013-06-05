@@ -1,0 +1,1155 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"nAnd2"
+			],
+			[
+				"bi",
+				"bigChecker"
+			],
+			[
+				"Blac",
+				"blackWhite"
+			],
+			[
+				"pat",
+				"pathString"
+			],
+			[
+				"fol",
+				"folderNameToPath"
+			],
+			[
+				"child",
+				"childItems"
+			],
+			[
+				"Count",
+				"CountyID"
+			],
+			[
+				"COU",
+				"CountyID"
+			],
+			[
+				"LogSear",
+				"LogSearchDimensionID"
+			],
+			[
+				"all",
+				"allCurrentJobs"
+			],
+			[
+				"Average",
+				"AverageReturn"
+			],
+			[
+				"wr",
+				"writerow"
+			],
+			[
+				"find_or_a",
+				"find_or_add_user"
+			],
+			[
+				"write",
+				"writefile"
+			],
+			[
+				"time",
+				"time_format"
+			],
+			[
+				"S",
+				"SHIPPED_ONTIME"
+			],
+			[
+				"Sales",
+				"SalesPersonID"
+			],
+			[
+				"ROOM",
+				"ROOM_DESCRIPTIONS"
+			],
+			[
+				"escape",
+				"escape_pod"
+			],
+			[
+				"laser",
+				"laser_weapon_armory"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"gues",
+				"guesses"
+			],
+			[
+				"central",
+				"central_corridor"
+			],
+			[
+				"Date",
+				"DateDescription"
+			],
+			[
+				"Fail",
+				"Failover-Clustering"
+			],
+			[
+				"SqlServer",
+				"SqlServerSecurityGroup"
+			],
+			[
+				"Netw",
+				"NetworkInterface"
+			],
+			[
+				"Inboun",
+				"InboundIpAddress"
+			],
+			[
+				"Pro",
+				"ProcTwo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".themes/basic/source/_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".themes/basic/source/_includes/article.html",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".themes/basic/source/_layouts/category_index.html",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".themes/basic/source/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".themes/basic/source/_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".themes/basic/source/_includes/custom/header.html",
+			"settings":
+			{
+				"buffer_size": 774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 15619,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"sbt",
+				"SBT: Start SBT"
+			],
+			[
+				"sbt ",
+				"SBT: Show SBT Output"
+			],
+			[
+				"sbt run",
+				"SBT: Run"
+			],
+			[
+				"sbt co",
+				"SBT: Compile"
+			],
+			[
+				"run",
+				"SBT: Run"
+			],
+			[
+				"sbt ne",
+				"SBT: Show Next Error"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"mul",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"pci ",
+				"Package Control: Install Package"
+			],
+			[
+				"pcdp",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pcdsp",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"sss",
+				"Surround: surround selection"
+			],
+			[
+				"Surround",
+				"Surround: surround selection"
+			],
+			[
+				"surround",
+				"Surround: surround selection"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"mmd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"md",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pcup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pci",
+				"Package Control: List Packages"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"mult	",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multi	",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add Current File"
+			],
+			[
+				"pcip ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: List Packages"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"markdo",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"package contr",
+				"Package Control: List Packages"
+			],
+			[
+				"package controll",
+				"Package Control: Enable Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Mar",
+				"Set Syntax: MultiMarkdown"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeremiah/Projects/octopress/.themes/basic/sass/custom/_style.sass",
+		"/Users/jeremiah/Projects/octopress/Rakefile",
+		"/Users/jeremiah/Projects/octopress/Gemfile",
+		"/Users/jeremiah/Projects/octopress/subl",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/archive_post.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_layouts/page.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/custom/header.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_layouts/default_post.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/custom/post_footer.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/post_footer.html",
+		"/Users/jeremiah/Projects/octopress/_config.yml",
+		"/Users/jeremiah/Projects/octopress/plugins/date.rb",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_layouts/default_page.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/article.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_layouts/default.html",
+		"/Users/jeremiah/Projects/octopress/.themes/classic/source/_includes/post/author.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/post/author.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/post/footer_date.html",
+		"/Users/jeremiah/Projects/octopress/.themes/classic/source/_layouts/post.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/post/date.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/asides/googleplus.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/asides/github.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/asides/pinboard.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/custom/footer.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/after_footer.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/asides/recent_posts.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/asides/twitter.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/index.html",
+		"/Users/jeremiah/.aws/credential-file-path.template",
+		"/Users/jeremiah/Projects/octopress/source/_posts/2013-03-04-first.markdown",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/navigation.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/css/style.css",
+		"/Users/jeremiah/Projects/octopress/.themes/classic/sass/screen.scss",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/sass/screen.scss",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/head.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/source/_includes/header.html",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/sass/font-awesome-ie7.sass",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/sass/font-awesome.css",
+		"/Users/jeremiah/Projects/octopress/.themes/basic/sass/style.sass",
+		"/Users/jeremiah/Projects/octopress/source/stylesheets/screen.css",
+		"/opt/hadoop-2.0.0-cdh4.1.3/etc/hadoop/yarn-site.xml",
+		"/Users/jeremiah/Documents/blog/Hadoop On Ramps.md",
+		"/Users/jeremiah/Documents/blog/hadoop overview.md",
+		"/Users/jeremiah/Projects/haskell/Code/ch02_usingPictures.hs",
+		"/Users/jeremiah/Projects/haskell/Code/Pictures.lhs",
+		"/Users/jeremiah/Projects/haskell/ch02/FirstScript.hs",
+		"/Users/jeremiah/Projects/haskell/Code/FirstScript.hs",
+		"/Users/jeremiah/Projects/haskell/Code/FirstLiterate.lhs",
+		"/Users/jeremiah/Projects/haskell/ch02/FirstLiterate.lhs",
+		"/Users/jeremiah/Downloads/hive-tutorial/tutorial_ddl.hiveql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Presentations/Individual/Jeremiah/201206 SQLCruise/SQL Cruise AK 2012.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/notes.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Deliverables/Safely Resize Log Files.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Deliverables/TempDB Monitoring Queries.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/BasicStorageQuestionnaire.txt",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/50_sp_BlitzIndex.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Storage Sizing/Server and Storage Design Checklist.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Storage Sizing/Storage Questionnaire.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Deliverables/APPLY demo.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Working Files/rpt_claim_aging_tran.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/outline",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Working Files/Queries By CPU/#4 cpu #1 reads.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Working Files/Queries By CPU/#1 CPU - SQLText.sql",
+		"/Users/jeremiah/Documents/blog/Rolling Averages.md",
+		"/Users/jeremiah/Projects/dotfiles/bash/functions.sh",
+		"/Users/jeremiah/Projects/riak/dev/dev3/etc/app.config",
+		"/Users/jeremiah/Projects/riak/dev/dev4/etc/app.config",
+		"/Users/jeremiah/Projects/riak/dev/dev2/etc/app.config",
+		"/Users/jeremiah/Projects/riak/dev/dev1/etc/app.config",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/noets.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/51_plancache-SQL2008-beta.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/51_plancache.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/50_indexes.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/04_memory.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/people_case_elgibility_validation.sql",
+		"/Users/jeremiah/Documents/blog/Rolling Averages.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Lutheran Social Services of MN/2013 02 Critical Care Check/Scripts/02_dmiovirtualfilestats_now.sql",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron/.git/COMMIT_EDITMSG",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron/RELEASE_NOTES.md",
+		"/Users/jeremiah/Projects/BrentOzarULTD/CriticalCare/.git/COMMIT_EDITMSG",
+		"/Users/jeremiah/Projects/sbt-tutorial/project/plugins.sbt",
+		"/Users/jeremiah/Projects/sbt-tutorial/build.sbt",
+		"/Users/jeremiah/Projects/io/src/files.scala",
+		"/Users/jeremiah/Projects/sbt-tutorial/src/main/scala/tree.scala",
+		"/Users/jeremiah/Projects/sbt-tutorial/src/main/scala/folder.scala",
+		"/Users/jeremiah/Projects/sbt-tutorial/DirectoryTreeCrawler.sublime-project",
+		"/Users/jeremiah/Projects/sbt-tutorial/hw.scala",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Presentations/Individual/Jeremiah/riak in a dotnet world.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Presentations/Individual/Jeremiah/201206 SQLCruise/SQL Cruise 2012 prep steps.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Employees/Products/Critical Care - SQL Server/Scripts/51_plancache.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/SQL Intersections/2013 Spring/Bios and Headshots/jeremiah peschka bio.txt",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Channel Management/Critical Care 201302/Scripts/00_sp_Blitz.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Employees/Products/Critical Care - SQL Server/Scripts/00_sp_Blitz Alpha v17.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Prospects/Wonderbox/notes.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Management/Marketing/Web Site/Development Process/dev_process.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Channel Management/Critical Care 201302/locks.xml",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron.Samples/.git/COMMIT_EDITMSG",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron/.git/MERGE_MSG",
+		"/Users/jeremiah/.rvm/log/ruby-1.9.3-p385/rubygems.install.log",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Presentations/Individual/Jeremiah/_bio.txt",
+		"/Users/jeremiah/+127",
+		"/Users/jeremiah/.rvm/README",
+		"/Users/jeremiah/Downloads/stderr",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron/CorrugatedIron/Properties/AssemblyInfo.cs",
+		"/Users/jeremiah/Projects/DistributedNonsense/CorrugatedIron.SessionState/.gitattributes",
+		"/Users/jeremiah/Downloads/job_201302092033_0005_1360442300097_hadoop_INSERT+OVERWRITE+TABLE+AveragePricePerAc...x%28Stage",
+		"/Users/jeremiah/Projects/BrentOzarULTD/wordpress/.htaccess",
+		"/Users/jeremiah/Documents/blog/The E in ETL - Peschka_ETL_edited.txt",
+		"/Users/jeremiah/Downloads/Peschka_ETL.txt",
+		"/Users/jeremiah/Projects/dba/.git/MERGE_MSG",
+		"/Users/jeremiah/Downloads/examples/list-impl/Misc.scala",
+		"/Users/jeremiah/Downloads/examples/lists/Misc.scala",
+		"/Users/jeremiah/Documents/blog/The E in ETL.md",
+		"/Users/jeremiah/Projects/dotfiles/bash/aliases.sh",
+		"/Users/jeremiah/Downloads/importData .sql",
+		"/Users/jeremiah/Projects/dba/README.md",
+		"/Users/jeremiah/dba.sh",
+		"/Users/jeremiah/Projects/dba/dba.sh",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/NETvide/201301 Critical Care/Scripts/01_sysdmoswaitstats.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/NETvide/201301 Critical Care/Scripts/00_databasesizes.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/NETvide/201301 Critical Care/Scripts/00_sp_Blitz Alpha v17.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/NETvide/NETvide Intro Call.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/NETvide/Notes from Brent.md",
+		"/Users/jeremiah/Projects/BrentOzarULTD/CriticalCare/sp_BlitzIndex/sp_BlitzIndex.sql",
+		"/Users/jeremiah/Desktop/sp_Blitz.Lori.sql",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Prospects/NETvide/NETvide Intro Call.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Prospects/NETvide/Notes from Brent.md",
+		"/Users/jeremiah/Dropbox/Brent Ozar PLF/Clients/Docusign/2013-01 SQL Server Health Check/Scripts/ExtendedEvents/ExtendedEvents_WaitsBySession.sql"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			"",
+			"sayings",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cf",
+			"deploy",
+			"deploy_default",
+			"highlight",
+			"<div id=\"content\">",
+			"date_formatted",
+			"author.html",
+			"date_formatted",
+			"author.html",
+			"byline author vcard",
+			"google_analytics_tracking_id",
+			"google_analytics",
+			"h1",
+			"logo",
+			"hgroup",
+			"theme",
+			"bigChecker",
+			"doube",
+			"gender",
+			"baw",
+			"temp table",
+			"backend",
+			"search",
+			"\nsearch",
+			"127.0.0.1",
+			"enable",
+			"127.0.0.1",
+			"childItems",
+			"name",
+			"children",
+			"><",
+			"\"Inactive\"",
+			"\",",
+			"boudev",
+			"download",
+			"tesco",
+			"queue",
+			"\\t",
+			"SelectEnvelopeSubListBySentItemsFolderidDateText",
+			"GetAccountUsageFOrCurrentAccount",
+			"filesMatch",
+			"000189",
+			"AS",
+			"FLOAT",
+			"*",
+			"QueryPlanFiltered",
+			"@OutputType",
+			"Category",
+			"cat.Category",
+			"Wavers",
+			"WriteStallReport",
+			"$",
+			"riak_dt",
+			"time_to_int",
+			"add_click",
+			"fetch_all",
+			"cursor",
+			"sql_find",
+			"my_urls",
+			"url",
+			"buffered=True",
+			"add_user",
+			"username",
+			"id",
+			"print row[0]\n            # print row[3]",
+			"quote",
+			"cache",
+			"<plugins",
+			"plugins",
+			"pluginMa",
+			"thrift",
+			"concat",
+			"memory",
+			"gb",
+			"stall",
+			"backup",
+			"Java",
+			"architect",
+			"fillfactor",
+			"CallStatusId",
+			"job",
+			"CallCount",
+			"management",
+			"monitor",
+			"filter",
+			"3",
+			"CallAttempt",
+			"GetTotalCallCounts",
+			"GetActiveCallCount",
+			"E:",
+			"saving money",
+			"in order to",
+			"have should",
+			"Python",
+			"python",
+			"1212960",
+			"DBInstance",
+			"DBClass",
+			"rds\n",
+			"functions",
+			"cache",
+			"\" print",
+			"quorum",
+			"Markup",
+			"remove",
+			"uninstall",
+			"free",
+			"port",
+			"goal",
+			"fast ordered",
+			"partition",
+			"DBMIRROR_EVENTS_QUEUE",
+			"  ",
+			"@@VERSION",
+			"vlf",
+			"< yes.inp",
+			"sqlio",
+			"TimeMaster",
+			"nevarez",
+			"ail over",
+			"Fail over",
+			"fail over",
+			"route",
+			"SecurityGroupIds",
+			".bat",
+			"MountPoint",
+			"120\"",
+			"120"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0.0.0.0",
+			"  ",
+			"###"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".themes/basic/source/_layouts/post.html",
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".themes/basic/source/_includes/article.html",
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".themes/basic/source/_layouts/category_index.html",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".themes/basic/source/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".themes/basic/source/_includes/header.html",
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".themes/basic/source/_includes/custom/header.html",
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Rakefile",
+					"settings":
+					{
+						"buffer_size": 15619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sbt":
+	{
+		"height": 220.0
+	},
+	"output.sbt_error":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rakefil",
+				"Rakefile"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"custom/header.",
+				".themes/basic/source/_includes/custom/header.html"
+			],
+			[
+				"header.html",
+				".themes/basic/source/_includes/header.html"
+			],
+			[
+				"article.html",
+				".themes/basic/source/_includes/article.html"
+			],
+			[
+				"archive_post.html",
+				".themes/basic/source/_includes/archive_post.html"
+			],
+			[
+				"_config",
+				"_config.yml"
+			],
+			[
+				"post",
+				".themes/basic/source/_layouts/post.html"
+			],
+			[
+				"default",
+				".themes/basic/source/_layouts/default.html"
+			],
+			[
+				"_c",
+				"_config.yml"
+			],
+			[
+				"child",
+				"childtest.bat"
+			],
+			[
+				"ec2",
+				"bash/ec2.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,8 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+{% if author %}<span><i class="icon-pencil"></i><span class="fn"><a href="{{ root_url }}/contact/">{{ author }}</a></span></span>{% endif %}
